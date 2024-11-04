@@ -1,6 +1,6 @@
 # Client-Server-App
 
-This project is a command-line client for managing a library system. It allows users to register, log in
+This project is a command-line client for managing a library system. It allows users to register, log in,
 access the library,view books, add books, delete books, and log out.
 
 ## Key Features
